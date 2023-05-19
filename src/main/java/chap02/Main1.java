@@ -19,5 +19,4 @@ public class Main1 {
 		m.setSender(s);
 		System.out.println(m);
 	}
-
 }
